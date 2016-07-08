@@ -18,3 +18,7 @@
 - keep sharing ideas
 - think about what the goal is
 - enjoy memes
+
+## where else are we
+
+◊ [are.na](https://www.are.na/m-s-1468015743/dark-arena-1468015785)
