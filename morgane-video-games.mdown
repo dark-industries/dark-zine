@@ -1,0 +1,33 @@
+# Video Games, Ethics, and Philosophy (working title)
+## by Morgane Santos
+
+Abstract: Sci-fi video games create space to explore questions about ethics, morality, and philosophy, as they are often grounded in contemporary culture and can be considered as ultra-elaborate thought experiments. Through the guise of pure entertainment, modern sci-fi games allow players to navigate difficult moral dilemmas or even simply reconsider their own reality, with greater success than typical philosophical writing. This egalitarian playground can become a very intentional forum for philosophical thought, if we let it.
+
+
+~~ RESEARCH: https://github.com/dark-industries/syllabus
+
+# Outline
+
+## Basic definitions
+Define philosophy, sci-fi, video games, morality, good, evil... It's important to agree on a cohesive definition. Will lean towards a Western understanding since all games on this list are from Western developers.
+
+## Concession
+Video games are bad, mmkay. At least, that's a common narrative, and certainly not _all_ video games are enlightening, and can even have terrible consequences [insert something about violence]. However, by strictly looking at video games as both frivolous and dangerous, we're ignoring the huge learning potential here. Not to mention, video games are far more egalitarian than typical education [insert statistics about diversity in game players, along racial/gender/class lines], and thus can have a much bigger impact if we understand how to use them effectively to teach. Okay now for some examples.
+
+## Mass Effect and the trolley problem
+Mass Effect is nothing if not an endless series of trolley problems. What can we learn from constantly having to choose who lives and dies? From having to choose between different shades of grey? When "good" and "bad" are unclear, how do we decide anything, and then live with the consequences?
+
+## Life is Strange and playing god
+Life is Strange lets players rewind time, messing with the "very fabric of spacetime" in a way that essentially lets you play god. It's eventually revealed that this was an extremely bad thing to do, and hints at the idea of, basically, mortals staying in their lane. But we always like to play god, especially at the bleeding edge of science. At what point do we limit ourselves and our society, and at what point is it necessary to push beyond our current capabilities?
+
+## Dreamfall Chapters and decision making, personally and socially
+While not unique to Dreamfall Chapters, its decision tree is one of the more elaborate ones, and at the end of each chapter it'll show how you decisions compared to others players', letting you see patterns between your own value judgments and society's. What can we learn from seeing this comparison? Especially since some decisions are 50/50, while some skew heavily to one side. What does individuality mean? What does community? How independent should we be?
+
+## KOTOR 2 and ambiguous morality
+KOTOR 2 is one of the finest examples of amorality. Your mentor in the game is neither good nor evil, and it's often touted as a very morally complex game. What are heroes (Jedi) in a world where good isn't always beneficial, or even the right choice? Can evil sometimes be correct? Is neutrality perhaps the best stance?
+
+## Other possible games and topics
+The Stanley Parable and the idea of trust; Kentucky Route Zero and the importance of empathy and perspective (maybe more fantasy than sci-fi: should this JUST be about sci-fi games?); Morrowind and culture and politics (definitely fantasy and not sci-fi-- could honestly be a whole piece on its own); Portal and the shifting nature of evil.
+
+##Conclusion
+Games are fun and also can learn us things.
