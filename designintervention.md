@@ -1,5 +1,24 @@
 # design intervention
+Main character:
+Erica went to design school thinking that design was the perfect blend of science and art. She believed that design can truely improve people's lives.
+On the first day of Graphic Design I, the teacher asked the class why they chose design.
 
+"So who wants to go first?"
+Erica stood up and said, " I believe that design can make a positive impact on people and I want to be part of that".
+She sat down and smiled at the teacher.
+"Okay, next?"
+"Well, I just want to be a designer, because artists don't make any money."
+Everyone in the class had similar answers.
+
+This became a theme for the rest of Erica's college life, but she left college with the same belief. She wanted to be impactful. She wanted to help people and she didn't care about money.
+
+~~Current day~~
+Erica tries her best at everything. She does hackathons on weekends and teams would fight over her. "We need a designer!", they say. But many times, they just want to add her on Facebook.
+
+
+
+
+----
 2am.
 
 Erica closed all her tabs,shut her eyes and cleared her mind. She could feel the blue light leaving her body, at least she she thought it was.
