@@ -13,6 +13,7 @@
 - "i want to write about philosophy and video games"
 - languages, keyboards, programming... how would things be different if english weren't the lingua franca?
 - minimal UI: how far is too far. why do we have emotional reactions to minimalism (or maximalism) 
+- Market Efficient Identity - neoliberalism and the personal brand
 
 ## next steps
 
