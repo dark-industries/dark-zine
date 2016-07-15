@@ -12,7 +12,7 @@
 - "I have a couple stuff on contrast (contrasting flavors / contrasting opinions / contrasting personal beliefs / etc) and I'm trying to formulate sane thoughts around "to actually contribute towards making society better you might need to first shatter your reality""
 - "i want to write about philosophy and video games"
 - languages, keyboards, programming... how would things be different if english weren't the lingua franca?
-- minimal UI: how far is too far. why do we have emotional reactions to minimalism (or maximalism) 
+- minimal UI: how far is too far. why do we have emotional reactions to minimalism (or maximalism)
 - Market Efficient Identity - neoliberalism and the personal brand
 
 ## next steps
@@ -21,6 +21,13 @@
 - keep sharing ideas
 - think about what the goal is
 - enjoy memes
+
+## Getting started
+
+1. Make a new branch from master branch.
+2. Write your piece, make changes, etc.
+3. When ready to submit your piece, create a pull request that compares your branch to master branch.
+4. Someone(?) will merge your branch to master if approved/no issues.
 
 ## where else are we
 
