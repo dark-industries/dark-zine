@@ -13,26 +13,26 @@ Abstract: Sci-fi video games create space to explore questions about ethics, mor
 ## Basic definitions
 Before we begin, it's important to define a few terms.
 
-> philosophy
-> the study of the fundamental nature of knowledge and existence
+philosophy:
+_the study of the fundamental nature of knowledge and existence_
 
-> video game
-> a game played on a computer
+video game:
+_a game played on a computer_
 
-> science fiction
-> fiction based on imagining future events, technological developments, or cutting edge scientific ideas (particularly around quantum mechanics)
+science fiction:
+_fiction based on imagining future events, technological developments, or cutting edge scientific ideas (particularly around quantum mechanics)_
 
-> ethics
-> moral principles that govern personal or group behavior
+ethics:
+_moral principles that govern personal or group behavior_
 
-> morality
-> principles concerning the distinction between right and wrong
+morality:
+_principles concerning the distinction between right and wrong_
 
-> good
-> that which is virtuous, commendable, self-less
+good:
+_that which is virtuous, commendable, self-less_
 
-> evil
-> that which is sinful, reprehensible, selfish
+evil:
+_that which is sinful, reprehensible, selfish_
 
 ## Dispelling bias
 As I was writing this article and describing it to people, they would often hear the words "video games" and "ethics" and immediately jump to the conclusion that this was about whether video games were ethical. Indeed this is a hot topic of debate, which even has its own [wikipedia page](https://en.wikipedia.org/wiki/Video_game_controversies). This article is not about that, and I have nothing to say about that topic.
