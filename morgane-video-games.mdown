@@ -1,4 +1,8 @@
-# Video Games, Ethics, and Philosophy (working title)
+# IN PROGRESS
+# LITERALLY DO NOT WANT ANY FEEDBACK YET
+# STAY IN YOUR LANE
+
+# Video Games as Egalitarian Philosophical Forum
 ## by Morgane Santos
 
 Abstract: Sci-fi video games create space to explore questions about ethics, morality, and philosophy, as they are often grounded in contemporary culture and can be considered as ultra-elaborate thought experiments. Through the guise of pure entertainment, modern sci-fi games allow players to navigate difficult moral dilemmas or even simply reconsider their own reality, with greater success than typical philosophical writing. This egalitarian playground can become a very intentional forum for philosophical thought, if we let it.
@@ -6,13 +10,43 @@ Abstract: Sci-fi video games create space to explore questions about ethics, mor
 
 ~~ RESEARCH: https://github.com/dark-industries/syllabus
 
-# Outline
-
 ## Basic definitions
-Define philosophy, sci-fi, video games, morality, good, evil... It's important to agree on a cohesive definition. Will lean towards a Western understanding since all games on this list are from Western developers.
+Before we begin, it's important to define a few terms.
 
-## Concession
-Video games are bad, mmkay. At least, that's a common narrative, and certainly not _all_ video games are enlightening, and can even have terrible consequences [insert something about violence]. However, by strictly looking at video games as both frivolous and dangerous, we're ignoring the huge learning potential here. Not to mention, video games are far more egalitarian than typical education [insert statistics about diversity in game players, along racial/gender/class lines], and thus can have a much bigger impact if we understand how to use them effectively to teach. Okay now for some examples.
+> philosophy
+> the study of the fundamental nature of knowledge and existence
+
+> video game
+> a game played on a computer
+
+> science fiction
+> fiction based on imagining future events, technological developments, or cutting edge scientific ideas (particularly around quantum mechanics)
+
+> ethics
+> moral principles that govern personal or group behavior
+
+> morality
+> principles concerning the distinction between right and wrong
+
+> good
+> that which is virtuous, commendable, self-less
+
+> evil
+> that which is sinful, reprehensible, selfish
+
+## Dispelling bias
+As I was writing this article and describing it to people, they would often hear the words "video games" and "ethics" and immediately jump to the conclusion that this was about whether video games were ethical. Indeed this is a hot topic of debate, which even has its own [wikipedia page](https://en.wikipedia.org/wiki/Video_game_controversies). This article is not about that, and I have nothing to say about that topic.
+
+However, it's worth noting that this idea of "violence and video games" also relies on stereotypes about who gamers even are: presumably, solitary young white men with an ax to grind. According to [one report](http://www.theesa.com/wp-content/uploads/2015/04/ESA-Essential-Facts-2015.pdf) on gamer demographics, the average player is actually 35 years old, and 44% of all gamers are female. In fact, there are more adult women playing games than teenage boys (33% versus 15%). According to a [Pew survey](http://www.pewinternet.org/files/2015/12/PI_2015-12-15_gaming-and-gamers_TOPLINE.pdf), about half of white adults, half of black adults, and half of hispanic adults play video games.
+
+In other words, video games are remarkably egalitarian. This equality provides an ideal platform for learning, since it has the potential to reach an incredibly diverse audience. 
+
+Compare that to, say, the demographics of university philosophy departments. Only [30%](http://kieranhealy.org/files/misc/phil-by-discipline.pdf) of PhD philosophy degrees go to women, an overwhelming majority of philosophy students are [white](http://www.humanitiesindicators.org/content/indicatordoc.aspx?i=266), and it doesn't get any better amongst [professors](http://opinionator.blogs.nytimes.com/2013/09/02/women-in-philosophy-do-the-math/). Not to mention that going to college is not feasible for everyone. The pursuit of knowledge, it seems, is only for white men.
+
+Unless you return to video games. What we can't teach in a university classroom--one full of young white men who can afford to major in philosophy--we can teach in video games, played by 40-year-old women, teenage Latinos, and yes, even those young white men we so love to demonize. Video games are for everyone.
+
+Now that I've convincingly and adroitly proved to you why video games are better than college, let's explore what exactly these games are teaching us anyhow.
+
 
 ## Mass Effect and the trolley problem
 Mass Effect is nothing if not an endless series of trolley problems. What can we learn from constantly having to choose who lives and dies? From having to choose between different shades of grey? When "good" and "bad" are unclear, how do we decide anything, and then live with the consequences?
