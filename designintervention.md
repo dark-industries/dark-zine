@@ -21,33 +21,37 @@ Erica tries her best at everything. She does hackathons on weekends and teams wo
 ----
 2am.
 
-Erica closed all her tabs,shut her eyes and cleared her mind. She could feel the blue light leaving her body, at least she she thought it was.
+Erica closed all her tabs, shut her eyes, and cleared her mind. This ritual led her to believe that blue light was leaving her body.
 
 She opened her eyes and clicked on an orange diamond icon. She scrolled through the fonts and picked a font called:
 
 > Neue Haas Unica! Haven’t used this one before! Finally, I can put that $400 to good use.
 
-Erica spent the next 2.5 hours experimenting with this font. Adjusted line-spacing. Set a comfortable line-length, never extending beyond 75 characters. Fixed the spacing between individual characters on larger font sizes.
+Erica spent the next 2.5 hours experimenting with this font. Adjusting line-spacing. Setting a comfortable line-length, never extending beyond 75 characters. Fixed the spacing between individual characters on larger font sizes. She had done this task multiple times, but she always enjoyed it. 
 
 3:43am.
 
-> Erica: Fuck, I always do this on Sunday. Ugh, I’m going to be late tomorrow. 9AM is too early for people to be working.
+> Erica: Fuck, I always do this on Sunday. Ugh, I’m going to be late tomorrow. 9AM is too early for people to be working anyway.
 
-Erica was not late to work the next day, but this was not the Monday she was expecting.
+Erica was not late to work the next day.
 
-As Erica approaches the door, she notices how awkwardly silent the office is. Erica quickly brushed it off.
+As Erica approaches the door, she notices how awkwardly silent the office was. 
 
-> Erica(chucking): Ha, and I thought EYE was going to be late for work.”
+> Erica(smiling): Ha, and here I thought I was going to be late for work. ”
 
-Erica was proud that not only did she start her side project last night, but she also arrived to work on time. Double productivity, challenge complete.
+Erica was proud that not only did she work on her side project last night, but she was also punctual. Double productivity, challenge complete.
 
 When she entered the office, familiar faces were sitting in a circle. All eyes locked on to her as the door slammed shut.
 
 > Erica: "Umm, what's going on? I don't remember the stand-up being moved to 10. And why is Tobin here?"
 >
-> Bill: "Erica, we decided to cancel work today for something more pressing."
+> Bill: "Erica, we decided to cancel work today for something urgent."
 >
-> Benn: "Yeah, we realized that you're struggling with--I don't know...how do we describe it.?
+Erica was confused. " Are we getting acquired?", she wondered.
+>
+> Benn: " I just want to note that Brian and Larry went through the same thing. So, you're not alone in this.
+>
+>Erica:"What? I have no idea what you're talking about"
 >
 > Bill: "You want your designs to make the world a better place, but you can't. And so you go on Twitter and rant about it. You even wrote that long Medium post. We're all very worried about you, Erica."
 >
