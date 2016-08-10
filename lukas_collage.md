@@ -1,3 +1,6 @@
+# Arrangement Collage
+## Lukas WinklerPrins
+
 In 2015, Frank Chimero [wrote on the “Grain” of the Web](http://frankchimero.com/writing/the-webs-grain/), focusing on a web-native media that doesn’t try to fight the inherently rectangle-based HTML Document Object Model (DOM)—also shared with XML and XHTML. This remains true: any site that does not look rectilinear is usually just fooling you; strip the CSS and it’s just a pile of blocks. Perhaps tilted and stretched, or with the corners shaved off, but just a pile of blocks. 
 
 ![Wikimedia-sourced HTML DOM - https://en.wikipedia.org/wiki/Document_Object_Model#/media/File:JKDOM.SVG](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/JKDOM.SVG/2000px-JKDOM.SVG.png)
@@ -14,9 +17,9 @@ Even with stream moderation, the modern media viewer is accustomed to lack of co
 
 Marius Watz, in a response on the New Aesthetic, writes on tumblr image culture: “Its art is juxtaposition: If we put this next to that and this other thing, surely a new understanding will emerge.” To be fair, there are uncountably many combinations that may be devoid of meaning—all I mean to point out is that a diptych is a third object, beyond the original two, with the possibility of value. Some find artistic practice in the form of a relentless [stream of rectangles](http://thenewinquiry.com/essays/athletic-aesthetics/). People go nuts over releases of image dumps from [Moodmail](http://moodmail.org/) and [JJJJound](http://www.jjjjound.com/), and the [Lost Image Desk](http://lostimagedesk.com/) is making professional practice of it. 
 
-(A scan of contemporary sculpture demonstrates that selection and arrangement of objects—often found or folk objects—is an ongoing trend. The viewer is trusted with finding meaning in the arrangement, selection, formal qualities, cultural context, and more in a relational tradition.)
-
 ![Bono iPod by Zachary Korol-Gold and Andrew Alexander, 2014](http://67.media.tumblr.com/2a1492983de94afca4090e0620340fe9/tumblr_nzdedbPv1p1v1c8sjo1_1280.jpg)
+
+(A scan of contemporary sculpture demonstrates that selection and arrangement of objects—often found or folk objects—is an ongoing trend. The viewer is trusted with finding meaning in the arrangement, selection, formal qualities, cultural context, and more in a relational tradition.)
 
 HTML is perfectly built for image adjacency—a blank and infinite canvas, empowered by right-click “Copy Image Address.” Our expansive tumblrs and pinterest boards act as collected and performed narratives, collages of found digital media. 
 
@@ -24,11 +27,15 @@ HTML is perfectly built for image adjacency—a blank and infinite canvas, empow
 
 Traditional art collage used the intrigue and power in composing elements pulled from diverse sources. Meaning constructed by selection, editing, and combination. The HTML collage, however, is copy-pasted. What is the HTML-native collage? 
 
+![Alt by Charles Broskoski](https://d2w9rnfcy7mm78.cloudfront.net/7982/original_alt.png)
+
 I call it the “Arrangement Collage”—rectangular, transcontextual compositions of, ostensibly, found media. The arrangement collage does less work for the viewer than traditional collage: elements are kept fully intact rather than trimmed for blended. The composition often mitigates interaction between elements and instead celebrates raw adjacency. 
 
 > When the historical avant-garde used valorized cultural objects such as the _Mona Lisa_ or a violin, it profaned, overpowered, and destroyed them before going on to aestheticize them. In contrast, contemporary art uses mass-cultural things virtually intact. (Boris Groys, _On The New_)
 
 The arrangement collage, while easy to construct in print, is truly native to the web, in which all objects are, by default, level rectangles, context-switching is the norm, and media to compose with is bountiful. 
+
+![JJJJound Screenshot](http://i.imgur.com/HewxiKI.jpg)
 
 Our feeds, plentiful in the digital landscape, help populate the arrangement collage. Tumblr, ostensibly a micro-blogging site, is largely used for [image collection](http://hyperallergic.com/66038/the-teen-girl-tumblr-aesthetic/); FFFFound is legendary for its contextless stream of collected imagery (and as birthing the name for JJJJound, when Justin Saunders couldn’t get an account); and Buzzfeed publishes “articles” that are frankly just stacks of image macros. A proliferation of mindless image consumption [concerns Bob Gill](http://www.itsnicethat.com/features/bob-gill-interview).
 
@@ -42,9 +49,15 @@ Of deeper concern is the stripping of value from imagery in overabundance. Editi
 
 The arrangement collage might serve as a tool in this battle against desensitization. In Buwert’s essay, referenced above, he describes how Brecht’s famous defamiliarization of the theater encouraged “a condition of active critical spectatorship within the audience.” _DDDDoomed_ is lamenting the supposed death of this critical spectator, replaced with the numb and passive viewer. Buwert is less concerned with context/lessness than Edition MK, and instead focuses on familiarity. 
 
-There are valiant efforts towards an inclusion of context and metadata with online imagery, but it is not built into the structure of the internet. Flickr and twitter use image covers to dissuade copy-pasting (circumnavigable by screen-shotting) and [Mediachain](http://www.mediachain.io/) attempts to inextricably tie media to metadata using blockchain methods. As of writing, however, the JPG is not going anywhere, and the ease of downloading and re-uploading an image far surpasses digging to find its source. Entropy is not on our side. Google’s reverse image search will never be quite fast or comprehensive enough to keep up. I believe the battle for context inclusion has been lost, but efforts to stimulate the viewer’s sense of familiarity can still bear fruit. 
+![Rollercoaster print sweater by Raf Simons](https://process.filepicker.io/AJdAgnqCST4iPtnUxiGtTz/rotate=deg:exif/rotate=deg:0/resize=width:960,fit:crop/output=format:jpg,compress:true,quality:95/https://d1qz9pzgo5wm5k.cloudfront.net/api/file/AqaYcXNRoCPLyVehNHqR)
+
+There are valiant efforts towards an inclusion of context and metadata with online imagery, but it is not built into the structure of the internet. Flickr and twitter use image covers to dissuade copy-pasting (circumnavigable by screen-shotting) and [Mediachain](http://www.mediachain.io/) attempts to inextricably tie media to metadata using blockchain methods. As of writing, however, the JPG is not going anywhere, and the ease of downloading and re-uploading an image far surpasses digging to find its source. Entropy is not on our side, and Google’s reverse image search will never be quite fast or comprehensive enough to keep up. 
+
+Walter Benjamin might lament the loss of contextual sensitivity, as it comes intertwined with a loss of “aura.” The authenticity that drives Benjamin’s aura is dependent on the idea of an original—which, in internet ecosystems, simply isn’t a relevant concept, as the original and reproduction can be identical both in themselves and conceivably in context. The arrangement collage can construct an internal aura and context regardless of future reproduction or repurposing, where the included images serve as referents to the others—even if the metadata of the .JPG is long gone. I believe the battle for context inclusion has been lost, but efforts to stimulate the viewer’s sense of familiarity can still bear fruit.
 
 A critical spectator is an active spectator, firstly, and the barrier to entry for participating in digital image culture lowers by the day. If construction of streams—enabled by sites like tumblr—seems too passive, I think construction of collage engages the composer at a more intentional level. Easy-to-use platforms such as [to.be](http://to.be), [newhive](http://newhive.com/), and [AMB-1](https://amb-1.com/) indicate desire for arrangement collage composition tools. The critical spectator does not necessarily have to create collage, however: it is the job of thoughtful, critical collagists to construct collages “out of a messy array of found fragments” that shake a sense of familiarity amongst our banal streams. 
+
+![Example to.be field](http://i.imgur.com/f2o5JlS.jpg)
 
 When the means of production for collage are accessible to the viewer, “these narratives are encountered as just one way of viewing [the media], and the constructed and interpreted nature of reality is exposed” (Buwert in _Modes of Criticism 2_). With extremely low-barrier-to-entry tools, any collage that catches the viewers notice can be considered an opportunity to remix further. Even just the consideration of how a collage was collected prompts questions that create the critical spectator. The source of the images may be lost, but the ability for them to be reconsidered and repurposed again is further engaged. The arrangement collage, along with simple tools for their creation, can be celebrated and pushed as a tool for enabling creators and stirring image consumers out of their typical feeds, a jolt out of Gill’s “culture.” 
 
