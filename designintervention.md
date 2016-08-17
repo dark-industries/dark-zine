@@ -1,94 +1,80 @@
 # design intervention
-Main character:
-Erica went to design school thinking that design was the perfect blend of science and art. She believed that design can truely improve people's lives.
-On the first day of Graphic Design I, the teacher asked the class why they chose design.
-
->"So who wants to go first?"
->Erica stood up and said, " I believe that design can make a positive impact on people and I want to be part of that".
->She sat down and smiled at the teacher.
->"Okay, next?"
->"Well, I just want to be a designer, because artists don't make any money."
-Everyone in the class had similar answers.
-
-This became a theme for the rest of Erica's college life, but she left college with the same belief. She wanted to be impactful. She wanted to help people and she didn't care about money.
-
-~~Current day
-Erica tries her best at everything. She does hackathons on weekends and teams would fight over her. "We need a designer!", they say. But many times, they just want to add her on Facebook.
 
 
-
-
-----
 2am.
 
-Erica closed all her tabs, shut her eyes, and cleared her mind. This ritual led her to believe that blue light was leaving her body.
+Erica closed all her tabs and shut her eyes. She took a deep breath and exhaled. Her body loosened up and she noticed the sharp, tinny taste of kale salad resting on her tongue. She tried to swallow it, but that only increased the flavor. The chime of her neighbor's piano played in the background.
 
-She opened her eyes and clicked on an orange diamond icon. She scrolled through the fonts and picked a font called:
+She opened her eyes and clicked on an orange diamond icon. An instant jolt of excitement lit up her eyes. She scrolled through the fonts and picked a font called:
 
 > Neue Haas Unica! Haven’t used this one before! Finally, I can put that $400 to good use.
 
-Erica spent the next 2.5 hours experimenting with this font. Adjusting line-spacing. Setting a comfortable line-length, never extending beyond 75 characters. Fixed the spacing between individual characters on larger font sizes. She had done this task multiple times, but she always enjoyed it. 
+Erica spent the next 2.5 hours examining and playing with this font. She setting a comfortable line-length, never extending beyond 75 characters. Fixed the spacing between individual characters on larger font sizes. She had done this task multiple times, but it felt cathartic every time. It was one of the few skills she felt proud of to put on her resume.
 
 3:43am.
 
-> Erica: Fuck, I always do this on Sunday. Ugh, I’m going to be late tomorrow. 9AM is too early for people to be working anyway.
+> Erica: Fuck, it's Sunday?! I'm definitely going to be late tomorrow. 9AM is wayyy too early for people to be working.
 
-Erica was not late to work the next day.
+Erica was not late to work the next day.As Erica approaches the door, she notices how awkwardly silent the office was.
 
-As Erica approaches the door, she notices how awkwardly silent the office was. 
+> Erica(smiling): Ha, and here I thought I was going to be late for work.
 
-> Erica(smiling): Ha, and here I thought I was going to be late for work. ”
-
-Erica was proud that not only did she work on her side project last night, but she was also punctual. Double productivity, challenge complete.
+She got her side project done and got to work on time. "That was a productive weekend", she thought.
 
 When she entered the office, familiar faces were sitting in a circle. All eyes locked on to her as the door slammed shut.
 
 > Erica: "Umm, what's going on? I don't remember the stand-up being moved to 10. And why is Tobin here?"
->
+
+Tobin, Larry, and Benn were all sitting on a mid-century sofa. An Eames Lounge chair swiveled around to reveal a slightly older gentleman.
+
 > Bill: "Erica, we decided to cancel work today for something urgent."
 >
 Erica was confused. " Are we getting acquired?", she wondered.
 >
-> Benn: " I just want to note that Brian and Larry went through the same thing. So, you're not alone in this.
+> Benn: "I just want to note that Brian and Larry went through the same thing. So, you're not alone in this."
 >
 >Erica:"What? I have no idea what you're talking about"
 >
-> Bill: "You want your designs to make the world a better place, but you can't. And so you go on Twitter and rant about it. You even wrote that long Medium post. We're all very worried about you, Erica."
->
-> Benn: "Yeah and you make everyone feel like shit!"
+>Bill: "We're very sorry that's it come to this, but we all feel like this has become a serious problem. We just want to be transparent about it. Benn, do you want to go first?"
 
-Erica rolled her eyes and tried to play it cool, but she was furious inside. How dare they throw this at me like this. Ugh, just a bunch of privileged cis white males.
+>Benn: "Last week, at our happy hour, you were so excited about this civic hackathon you were planning. You asked us to join, but we declined. After that you texted all of us "Come to my hackathon, if you want to do impactful work :)"
 
-She wanted to seem like she could hold her own fort though, so she started to look for cracks in their attack.
+We all work together, Erica! What do you mean "impactful work?!?!"
 
-> Erica: Benn, what is that on your lap? Is that a....manual?
+> Erica: You're overreacting, it was just one text.
 >
-> Benn (excitedly): Ah yes! I made this last week after Denise’s intervention went so well. I posted it on Dribbble too and it made front page!”
+> Benn: "Okay how about those condescending scoffs when I talk about any of my hobbies. You're like on this high horse thinking-"
 >
-> Erica: You are fucking with me right now.
->
-> Benn. I am not.
->
-> Bill: We’re just trying to help you get through this, Erica. Think about it--
->
+> Erica: Dude, IPAs are not a hobby.
+
+> Benn: Oh my god, I--
+
+> Bill "Okay you two, just calm down. Remember Benn, this intervention is about Erica's problems. Let's try to think about how we can help her."
+
 > Erica: By bringing my fucking ex?! In what way are you “helping me”?!
 >
-> Tobin: Erica, it’s okay, we made it to Series B.
+> Tobin: Hi Erica, it’s okay. We made it to Series B. Turns out underestimated my ability to handle the design work. Your styleguide was super helpful though.
 >
-> Erica: What?! Ex-boyfriend, not ex-coworker, you dipshit.
+> Erica: What?! Ex-boyfriend, not ex-coworker, you dumb shit.
 >
-> Tobin: Oh.
->
-> Benn: It’s also affecting us too. I know you don’t say it, but I can feel you scorning me because I work on a ride-sharing app.
->
-> Erica: I just don’t think any of that shit matters.
->
-> Benn: Oh my god, I--
->
-> Bill: Okay, everyone just take a deep breath. Remember, this is about Erica. Let's just try to talk through this. Erica, why do you think Benn’s work doesn’t matter?
->
-> Erica: Okay, sorry, it matters. I just think Benn can do so much better. Like, look what I made last night: A food app with cultural integrity. The restaurants around us are destroying food culture! Just the other day, another Mexican restaurant opened up on the Mission by a white person.
->
-> > We don't ever talk about food and it's origin. We just look on Yelp and pick anything above 3 stars! That's not a world I want to live in.
+> Tobin: Oh...
 
-Everyone fell silent.
+> Larry: "I'm just going to be blunt. Erica, you subscribe to this idea that design is this world-changing profession, but have you looked outside of your circle? Are you familiar with the frog in the well story? A frog in a well can't solve problems that she doesn't experience."
+
+> Erica: "Oh wow. Okay.. damn, a frog in a well, Larry? Are you practicing for a lightning-demo? I hope everyone throws their expensive lattes at you.
+
+> Larry: "Come again?"
+
+> In a flash, Larry was lying on the edge of the sofa.
+
+> Bill: "ERICA! Larry, are you okay?!"
+
+> Erica: "I quit."
+
+> Bill: "No you're fired. Please sign these papers."
+
+> Erica: "You prepared to fire me?"
+
+> Bill: "No, I prepared that you would leave politely, like a civil human being"
+
+> Erica: "Whatever. Screw all of you and your trivial company."
