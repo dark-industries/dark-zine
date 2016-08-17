@@ -1,9 +1,13 @@
 # A Dark Slack General Theory of Apology
 
-0. figure out if the other person even wants to hear it
-1. i am sorry
-2. this is what I did wrong
-3. it won’t happen again / i learned
-4. don’t do it for yourself.
+Need to make an apology? OK, buddy, let’s figure out how to tackle this. 
 
-do it because they need it too. don’t expect anything in return. 
+0. Figure out if the other party actually needs to hear it. If so…
+1. Say “I am sorry.”
+2. Explain what it is you did wrong. 
+3. Show that it won’t happen again, and that you have learned. 
+
+
+Remember: don’t do it for yourself. Do it because they need it too. Don’t expect anything in return. 
+
+Now get on with your life fam. 
