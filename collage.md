@@ -1,5 +1,4 @@
 # Arrangement Collage
-## Lukas WinklerPrins
 
 In 2015, Frank Chimero [wrote on the “Grain” of the Web](http://frankchimero.com/writing/the-webs-grain/), focusing on a web-native media that doesn’t try to fight the inherently rectangle-based HTML Document Object Model (DOM)—also shared with XML and XHTML. This remains true: any site that does not look rectilinear is usually just fooling you; strip the CSS and it’s just a pile of blocks. Perhaps tilted and stretched, or with the corners shaved off, but just a pile of blocks. 
 
